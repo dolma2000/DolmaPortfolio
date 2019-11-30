@@ -1,0 +1,57 @@
+* { box-sizing: border-box;}
+
+.greendot {
+    table-layout: fixed;
+    width: 100%;
+    margin-top: 0%;
+}
+
+.aboutme {
+    height: auto;
+    max-width: 100%;
+    margin-top: 1.3rem;
+}
+
+.navigationbar {
+    max-width: 100%;
+}
+
+.navigationbar ul {
+    margin: 1rem 2.3rem;
+    max-width: 100%;
+}
+.navigationbar ul li {
+    display: inline-block;
+    font-size: 1.1rem;
+    font-family: futura;     
+}
+
+.navigationbar ul li a {
+    display: block;
+    color: #1E1C59;
+    text-decoration: none;
+    margin: 1rem auto;
+}
+
+.table {
+    max-width: 100%;
+    table-layout: fixed;
+    margin-top: 2rem;
+    border-spacing: 0;
+}
+
+.table2 {
+    max-width: 100%;
+    table-layout: fixed;
+    border-spacing: 0;
+}
+
+.piece {
+    width: 100%;
+    height: auto;
+}
+
+.test {
+    max-width: 100%;
+    height: auto;
+}

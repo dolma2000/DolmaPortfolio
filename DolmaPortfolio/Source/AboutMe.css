@@ -1,0 +1,29 @@
+* { box-sizing: border-box;}
+
+.greendot {
+    table-layout: fixed;
+    width: 100%;
+    margin-top: 0%;
+}
+
+.aboutme {
+    height: auto;
+    max-width: 100%;
+    margin-top: 1.3rem;
+}
+
+.headshot {
+    width: 65%;
+    margin: 1.5rem auto 0 auto;
+    display: block;
+}
+
+.bio {
+    border: 6px solid #F25764;
+    margin: 0 1.4rem;
+    padding: 1.1rem 1.5rem 1.5rem 1.5rem;
+    font-family: Asap;
+    color: #1E1C59;
+    line-height: 1.2rem;
+    font-size: 0.957rem;
+  }
