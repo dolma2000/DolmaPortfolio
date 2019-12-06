@@ -1,0 +1,94 @@
+* { box-sizing: border-box;}
+
+
+.greendot {
+    table-layout: fixed;
+    width: 100%;
+    margin-top: 0%;
+}
+
+.portfolio {
+    height: auto;
+    max-width: 100%;
+    margin-top: 1.3rem;
+    margin-bottom: 1.3rem;
+    
+}
+
+.navigationbar {
+    max-width: 100%;
+}
+
+.navigationbar ul {
+    margin: 0 2.3rem;
+    max-width: 100%;
+}
+.navigationbar ul li {
+    display: inline-block;
+    font-size: 1.1rem;
+    font-family: futura;     
+}
+
+.navigationbar ul li a {
+    display: block;
+    color: #1E1C59;
+    text-decoration: none;
+    margin: 1rem auto;
+}
+
+#finearts {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+#DigitalArts a {
+    color: #F25764;
+    border-bottom: 3px solid #F25764;
+    padding-bottom: 0.5rem;
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+  
+}
+
+.table {
+    max-width: 100%;
+    table-layout: fixed;
+    margin-top: 2rem;
+    border-spacing: 0;
+}
+
+.table2 {
+    max-width: 100%;
+    table-layout: fixed;
+    border-spacing: 0;
+}
+
+.piece {
+    width: 100%;
+    height: auto;
+}
+
+.test {
+    max-width: 100%;
+    height: auto;
+}
+
+.col-half {
+    float: left;
+    width: 50%;
+}
+
+.col-half img {
+    width: 100%;
+    vertical-align:bottom;
+}
+
+.col-full {
+    float: left;
+    width: 100%;
+}
+
+.col-full img {
+    width: 100%;
+    vertical-align:bottom;
+}
